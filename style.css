@@ -107,7 +107,7 @@ button#equal {
 }
 
 .calculator #display {
-    color: #ffffff;
+    color: #000;
 }
 
 .calculator button#clear {
@@ -135,7 +135,7 @@ button#equal {
 }
 
 .calculator.dark #display {
-    color: #ffffff;
+    color: #000;
 }
 
 .calculator.dark button#clear {
